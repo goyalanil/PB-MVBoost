@@ -23,6 +23,8 @@ Please run the example code as following:
 python3 example_run.py
 ```
 
-Output: It will print Accuracy and F1 Measure on Training and Test Data. Also, Multiview C-Bound value on
+Output:
+
+It will print Accuracy and F1 Measure on Training and Test Data. Also, Multiview C-Bound value on
 Training Data after each iteration of algorithm.
 
