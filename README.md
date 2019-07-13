@@ -8,6 +8,9 @@ Related Paper:
 Goyal, Anil, Emilie Morvant, Pascal Germain, and Massih-Reza Amini. "Multiview Boosting by Controlling the Diversity and the Accuracy of View-specific Voters." Neurocomputing, 358, 2019, pp. 81-92.
 ```
 
+Link to HAL Archive:
+https://hal.archives-ouvertes.fr/hal-01857463v2/document
+
 Link to the ArXiv version:
 https://arxiv.org/abs/1808.05784
 
