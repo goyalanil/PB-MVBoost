@@ -5,8 +5,7 @@ Implementation for Multiview Learning Algorithm PB-MVBoost
 
 Related Paper:
 ```
-Multiview Boosting by Controlling the Diversity and the Accuracy of View-specific Voters.
-Anil Goyal, Emilie Morvant, Pascal Germain and Massih-Reza Amini, Neurocomputing 2019 
+Goyal, Anil, Emilie Morvant, Pascal Germain, and Massih-Reza Amini. "Multiview Boosting by Controlling the Diversity and the Accuracy of View-specific Voters." Neurocomputing, 358, 2019, pp. 81-92.
 ```
 
 Link to the ArXiv version:
